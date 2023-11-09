@@ -13,7 +13,7 @@ dependencies:
     git:
       url: https://github.com/XperiTech/vector_graphics
       path: packages/vector_graphics
-      ref: 6c53ce1ad049fc268e3f39d345bbdb8562070868
+      ref: da1232d4f70d0b55b10b10de94740723179cfff7
   vector_graphics_codec:
     git:
       url: https://github.com/XperiTech/vector_graphics
